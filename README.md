@@ -1,12 +1,19 @@
       COLIN FRANKISH - CV in the process of a rewrite !!!
 
 Email: colin.frankish@gmail.com
-Mobile: 07961 814 229
+Twitter : @ColinFrankish
+Google: 
+
 
 Personal Profile
-Until recently I was Team Leader/Manager for 13 staff at Trailfinders flagship office in West London. As well as having proven success in management, I had wider duties at a company level. I am extremely adaptable with first-rate presentation and organisational abilities. I have experience in sales, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
+ Career changer working to become a Software Developer after fifteen years experience in the Travel industry. Recent graduate from Makers Academy in London. 
+ As well as my newly acquired skills in full stack web development, I am extremely adaptable with first-rate presentation and organisational abilities.
+ I have experience in sales, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
  
 Key skills.
+  • 
+  • 
+  • 
   • Demanding but supportive manager, focusing on maximizing business objectives.
   • Excellent planning, analytical and organisational ability.
   • Adaptive account manager able to juggle diverse relationships.
@@ -16,11 +23,18 @@ Key skills.
   • Commercially aware and able to devise advertising/marketing accordingly.
 
 Education
+2014 Makers Academy Graduate.
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
 10 GCSE’s 7 ‘A’ grades, 3 ‘B’ grades
 
 Employment History.
+
+Travelbag - Manager, London Office, September 2012 - December 2013
+
+Corporate Traveller - Account Manager April 2012- September 2012
+
+
 
 Trailfinders  August 1999- December 2011
 June 2006-December 2011. Team Leader/Office Manager. 
