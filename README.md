@@ -2,7 +2,7 @@
 
 Email: colin.frankish@gmail.com
 Twitter : @ColinFrankish
-Google: 
+Google+: Colin Frankish
 
 
 Personal Profile
