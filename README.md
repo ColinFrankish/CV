@@ -5,13 +5,16 @@ Twitter : @ColinFrankish
 Google+: Colin Frankish
 Github: ColinFrankish
 
-
+`````
 Personal Profile
+`````
  Career changer working to become a Web Developer after fifteen years experience in the Travel industry. Recent graduate from Makers Academy in London. 
  As well as my newly acquired skills in full stack web development, I am extremely adaptable with first-rate presentation and organisational abilities.
  I have experience in sales, project management, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
- 
+
+`````
 Key skills
+`````
   • Makers Academy Graduate in Web Development.
   • Experienced in delivering projects on schedule and within budget.
   • Demanding but supportive manager, focusing on maximizing business objectives.
@@ -21,8 +24,10 @@ Key skills
   • Outstanding training, coaching and presentation skills.
   • Strong negotiator, excelling at crisis management and resolving disputes.
   • Commercially aware and able to devise advertising/marketing accordingly.
-
+  
+`````
 Education
+`````
 2014 Makers Academy Graduate - technologies studied include:
 Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, Sass, Jquery, HTTP, databases SQL/Active Record, WebSockets
 
@@ -30,8 +35,9 @@ Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara),
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
 10 GCSE’s 7 ‘A’ grades, 3 ‘B’ grades
 
+`````
 Employment History.
-
+`````
 Travelbag - Manager, London Office, September 2012 - December 2013
 * Managed the opening of a new flagship store, merging two existing offices into one.
 * Design and set working practises to achieve company goals.
