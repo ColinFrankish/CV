@@ -33,12 +33,16 @@ Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara),
 Employment History.
 
 Travelbag - Manager, London Office, September 2012 - December 2013
+* Managed the opening of a new flagship store, merging two existing offices into one.
+* Design and set working practises to achieve company goals.
+* Recruitment, training, quality control, sales management, HR issues, systems rollouts.
 
 Corporate Traveller - Account Manager April 2012- September 2012
+
 * Handling corporate travel accounts for high end business clients.
 * Designing solutions for complex travel requirements and delivering it to clients.
 * Responsible for billing and accounting for clients and the company
-* 
+* Sourcing new business and building client portfolio.
 
 
 Trailfinders  August 1999- December 2011
@@ -89,4 +93,4 @@ August 1999- November 2001. Junior Sales Consultant, Worldwide Sales.
 
 
 And finally..
-I have a range of interests outside of work. I enjoy reading and researching historical/scientific subjects. I play the guitar and enjoy sports, particularly football, rugby, skiing and tennis. I also enjoy an active social life with my wife and friends. 
+I have a range of interests outside of work. I enjoy reading and researching historical/scientific subjects. I play the guitar and enjoy sports, particularly football, rugby, diving and tennis. I also enjoy an active social life with my wife and friends. 
