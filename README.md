@@ -3,17 +3,17 @@
 Email: colin.frankish@gmail.com
 Twitter : @ColinFrankish
 Google+: Colin Frankish
+Github: ColinFrankish
 
 
 Personal Profile
- Career changer working to become a Software Developer after fifteen years experience in the Travel industry. Recent graduate from Makers Academy in London. 
+ Career changer working to become a Web Developer after fifteen years experience in the Travel industry. Recent graduate from Makers Academy in London. 
  As well as my newly acquired skills in full stack web development, I am extremely adaptable with first-rate presentation and organisational abilities.
- I have experience in sales, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
+ I have experience in sales, project management, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
  
-Key skills.
-  • 
-  • 
-  • 
+Key skills
+  • Makers Academy Graduate in Web Development.
+  • Experienced in delivering projects on schedule and within budget.
   • Demanding but supportive manager, focusing on maximizing business objectives.
   • Excellent planning, analytical and organisational ability.
   • Adaptive account manager able to juggle diverse relationships.
@@ -23,7 +23,9 @@ Key skills.
   • Commercially aware and able to devise advertising/marketing accordingly.
 
 Education
-2014 Makers Academy Graduate.
+2014 Makers Academy Graduate - technologies studied include:
+Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, Sass, Jquery, HTTP, databases SQL/Active Record, WebSockets
+
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
 10 GCSE’s 7 ‘A’ grades, 3 ‘B’ grades
@@ -33,7 +35,10 @@ Employment History.
 Travelbag - Manager, London Office, September 2012 - December 2013
 
 Corporate Traveller - Account Manager April 2012- September 2012
-
+* Handling corporate travel accounts for high end business clients.
+* Designing solutions for complex travel requirements and delivering it to clients.
+* Responsible for billing and accounting for clients and the company
+* 
 
 
 Trailfinders  August 1999- December 2011
