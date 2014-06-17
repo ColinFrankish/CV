@@ -1,4 +1,4 @@
-      COLIN FRANKISH - CV in the process of a rewrite !!!
+      COLIN FRANKISH 
 
 Email: colin.frankish@gmail.com
 Twitter : @ColinFrankish
@@ -24,12 +24,12 @@ Key skills
   • Outstanding training, coaching and presentation skills.
   • Strong negotiator, excelling at crisis management and resolving disputes.
   • Commercially aware and able to devise advertising/marketing accordingly.
-  
+
 `````
 Education
 `````
 2014 Makers Academy Graduate - technologies studied include:
-Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, Sass, Jquery, HTTP, databases SQL/Active Record, WebSockets
+Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, Sass, Jquery, HTTP, databases Sqlite/Postgres, WebSockets
 
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
@@ -51,7 +51,7 @@ Corporate Traveller - Account Manager April 2012- September 2012
 * Sourcing new business and building client portfolio.
 
 
-Trailfinders  August 1999- December 2011
+Trailfinders  August 1999- December 2011 
 June 2006-December 2011. Team Leader/Office Manager. 
 
 * Responsible for the management of 12-14 sales consultants, ranging from trainee to supervisory level, focusing on increasing sales and minimising costs.
