@@ -29,7 +29,8 @@ Key skills
 Education
 `````
 2014 Makers Academy Graduate - technologies studied include:
-Ruby, Ruby on Rails, Sinatra, Test Driven Development (rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, Sass, Jquery, HTTP, databases Sqlite/Postgres, WebSockets
+Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku.
+
 
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
