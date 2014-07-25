@@ -28,8 +28,8 @@ Key skills
 `````
 Education
 `````
-2014 Makers Academy Graduate - technologies studied include:
-Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku.
+####2014 Makers Academy Graduate 
+Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku and more.
 
 Notable projects contributed to below, available to view on Github [Colin Frankish Github](https://github.com/ColinFrankish)
 
