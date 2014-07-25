@@ -36,7 +36,7 @@ Notable projects contributed to below, available to view on Github [Colin Franki
 
 | Name                  | Outline                                       |
 |:---------------------:|:---------------------------------------------:|
-| [Student Directory]   | Final project at Makers Academy. Resource for | 
+| [Full Stack People]   | Final project at Makers Academy. Resource for | 
 |       [Github]        | present and future students seeking work.     |
 |                       | Rails,Ruby,Foundation,CSS,HTML,JavaScript     |
 | [Blog]                | Blog application allowing user comments.      |
@@ -117,7 +117,7 @@ I have a range of interests outside of work. I enjoy reading and researching his
 [Github:]: https://github.com/ColinFrankish
 [Twitter:]: https://twitter.com/ColinFrankish
 [Student Directory]: http://ma-student-directory.herokuapp.com/
-[Github]: https://github.com/CrowdHailer/Final-Project
+[Full Stack People]: https://github.com/CrowdHailer/Final-Project
 [Blog]: https://github.com/ColinFrankish/blog
 [Quiz-on-rails]: https://github.com/jorjahung/quiz-on-rails
 [Bookmark Manager]: https://github.com/ColinFrankish/bookmark_manager
