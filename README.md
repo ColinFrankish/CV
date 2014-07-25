@@ -1,8 +1,7 @@
 ## COLIN FRANKISH 
 
 Email: colin.frankish@gmail.com
-Twitter : @ColinFrankish
-Google+: Colin Frankish
+[Twitter:] @ColinFrankish
 [Github:]  ColinFrankish
 
 `````
@@ -37,15 +36,17 @@ Notable projects contributed to below, available to view on Github [Colin Franki
 
 | Name                  | Outline                                       |
 |:---------------------:|:---------------------------------------------:|
-| Student Directory     | Final project at Makers Academy. Resource for | 
-|                       | present and future students seeking work.     |
+| [Student Directory]   | Final project at Makers Academy. Resource for | 
+|       [Github]        | present and future students seeking work.     |
 |                       | Rails,Ruby,Foundation,CSS,HTML,JavaScript     |
-| Blog                  | Blog application allowing user comments.      |
+| [Blog]                | Blog application allowing user comments.      |
 |                       | Rails, CSS, HTML                              |
-| Quiz-on-Rails         | Excercise in Rails back end development. Users|
+| [Quiz-on-Rails]       | Excercise in Rails back end development. Users|
 |                       | can add questions/answers, sign up/in out etc |
 |                       | Rails, Ruby.                                  |
-
+| [Bookmark Manager]    | Resource for users to collect and bookmark    |
+|                       | and favourite their sites. Sinatra based with |
+|                       | Ruby, html, css, javascript.                  |
 
 
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
@@ -114,3 +115,9 @@ And finally..
 I have a range of interests outside of work. I enjoy reading and researching historical/scientific subjects. I play the guitar and enjoy sports, particularly football, rugby, diving and tennis. I also enjoy an active social life with my wife and friends. 
 
 [Github:]: https://github.com/ColinFrankish
+[Twitter:]: https://twitter.com/ColinFrankish
+[Student Directory]: http://ma-student-directory.herokuapp.com/
+[Github]: https://github.com/CrowdHailer/Final-Project
+[Blog]: https://github.com/ColinFrankish/blog
+[Quiz-on-rails]: https://github.com/jorjahung/quiz-on-rails
+[Bookmark Manager]: https://github.com/ColinFrankish/bookmark_manager
