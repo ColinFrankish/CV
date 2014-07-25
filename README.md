@@ -32,12 +32,19 @@ Education
 2014 Makers Academy Graduate - technologies studied include:
 Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Notable projects contributed to below, available to view on Github [Colin Frankish Github](https://github.com/ColinFrankish)
 
+
+| Name                  | Outline                                       |
+|:---------------------:|:---------------------------------------------:|
+| Student Directory     | Final project at Makers Academy. Resource for | 
+|                       | present and future students seeking work.     |
+|                       | Rails,Ruby,Foundation,CSS,HTML,JavaScript     |
+| Blog                  | Blog application allowing user comments.      |
+|                       | Rails, CSS, HTML                              |
+| Quiz-on-Rails         | Excercise in Rails back end development. Users|
+|                       | can add questions/answers, sign up/in out etc |
+|                       | Rails, Ruby.                                  |
 
 
 
