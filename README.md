@@ -31,12 +31,12 @@ Education
 ####2014 Makers Academy Graduate 
 Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku and more.
 
-Notable projects contributed to below, available to view on [Github](https://github.com/ColinFrankish)
+Notable projects contributed to below, available to view on [Github](https://github.com/ColinFrankish).
 
 
 | Name                           | Outline                                       |
 |:------------------------------:|:---------------------------------------------:|
-| [Full Stack People][(Github)]  | Final project at Makers Academy. Resource for | 
+| [Full Stack People],[(Github)] | Final project at Makers Academy. Resource for | 
 |                                | present and future students seeking work.     |
 |                                | Rails,Ruby,Foundation,CSS,HTML,JavaScript     |
 | [Blog]                         | Blog application allowing user comments.      |
