@@ -116,8 +116,8 @@ I have a range of interests outside of work. I enjoy reading and researching his
 
 [Github:]: https://github.com/ColinFrankish
 [Twitter:]: https://twitter.com/ColinFrankish
-[Student Directory]: http://ma-student-directory.herokuapp.com/
-[Full Stack People]: https://github.com/CrowdHailer/Final-Project
+[Full Stack People]: http://ma-student-directory.herokuapp.com/
+[Github]: https://github.com/CrowdHailer/Final-Project
 [Blog]: https://github.com/ColinFrankish/blog
 [Quiz-on-rails]: https://github.com/jorjahung/quiz-on-rails
 [Bookmark Manager]: https://github.com/ColinFrankish/bookmark_manager
