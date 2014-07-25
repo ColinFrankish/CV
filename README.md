@@ -113,4 +113,4 @@ August 1999 - April 2003 Sales Consultant, Worldwide Sales.
 And finally..
 I have a range of interests outside of work. I enjoy reading and researching historical/scientific subjects. I play the guitar and enjoy sports, particularly football, rugby, diving and tennis. I also enjoy an active social life with my wife and friends. 
 
-[Github]: https://github.com/ColinFrankish
+[Github:]: https://github.com/ColinFrankish
