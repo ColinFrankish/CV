@@ -1,4 +1,4 @@
-      COLIN FRANKISH 
+  ##                      COLIN FRANKISH 
 
 Email: colin.frankish@gmail.com
 Twitter : @ColinFrankish
@@ -39,12 +39,12 @@ Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara),
 `````
 Employment History.
 `````
-Travelbag - Manager, London Office, September 2012 - December 2013
+###Travelbag - Manager, London Office, September 2012 - December 2013
 * Managed the opening of a new flagship store, merging two existing offices into one.
 * Design and set working practises to achieve company goals.
 * Recruitment, training, quality control, sales management, HR issues, systems rollouts.
 
-Corporate Traveller - Account Manager April 2012- September 2012
+###Corporate Traveller - Account Manager April 2012- September 2012
 
 * Handling corporate travel accounts for high end business clients.
 * Designing solutions for complex travel requirements and delivering it to clients.
@@ -52,7 +52,7 @@ Corporate Traveller - Account Manager April 2012- September 2012
 * Sourcing new business and building client portfolio.
 
 
-Trailfinders  August 1999- December 2011 
+###Trailfinders  August 1999- December 2011 
 June 2006-December 2011. Team Leader/Office Manager. 
 
 * Responsible for the management of 12-14 sales consultants, ranging from trainee to supervisory level, focusing on increasing sales and minimising costs.
@@ -89,14 +89,8 @@ April 2003 - March 2004, Assistant Sales Supervisor, Worldwide Sales.
 * To help the Supervisor run the sales team, and to be in charge in their absence.
 * To maintain a high level of personal sales, to lead by example. 
 
-November 2001- April 2003 Senior Sales Consultant, Worldwide Sales.
-
-* To maintain top level sales and provide an example for Junior Consultants.
-
-August 1999- November 2001. Junior Sales Consultant, Worldwide Sales.
-
-1996-1999 
-* Spent 3 years working and travelling in Europe and the USA after university.
+August 1999 - April 2003 Sales Consultant, Worldwide Sales.
+* Consistently attained top sales figures, while working from Junior to Senior role.
 
 
 And finally..
