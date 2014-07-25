@@ -1,4 +1,4 @@
-##                                    COLIN FRANKISH 
+##                                COLIN FRANKISH 
 
 Email: colin.frankish@gmail.com
 Twitter : @ColinFrankish
@@ -8,14 +8,15 @@ Github: ColinFrankish
 `````
 Personal Profile
 `````
- Career changer working to become a Web Developer after fifteen years experience in the Travel industry. Recent graduate from Makers Academy in London. 
- As well as my newly acquired skills in full stack web development, I am extremely adaptable with first-rate presentation and organisational abilities.
- I have experience in sales, project management, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
+ Career changer working to become a Junior Web Developer and recent graduate from Makers Academy in London. Looking to get the first role on the developer ladder. 
+ Ruby, Rails, Sinatra, CSS, HTML, JavaScript and more - see below.
+ Extremely adaptable with first-rate presentation and organisational abilities.
+ Experience in sales, project management, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
 
 `````
 Key skills
 `````
-  • Makers Academy Graduate in Web Development.
+  • Makers Academy Graduate in Web Development (see below).
   • Experienced in delivering projects on schedule and within budget.
   • Demanding but supportive manager, focusing on maximizing business objectives.
   • Excellent planning, analytical and organisational ability.
@@ -31,6 +32,14 @@ Education
 2014 Makers Academy Graduate - technologies studied include:
 Ruby, Ruby on Rails, Sinatra, Test Driven Development (Rspec/cucumber/capybara), Javascript, HTML, CSS, Haml, SASS, Jquery, HTTP, databases Sqlite/Postgresql, WebSockets, Git, Heroku.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 
 1993-1996 BA Hons (2:1) History/Politics at Newcastle University
 5 A-levels -2 ‘A’ Grades, 3 ‘B’ grades- History, English, Biology, Chemistry, General Studies. ‘AS’ French grade B.
@@ -42,12 +51,14 @@ Employment History.
 ###Travelbag - Manager, London Office, September 2012 - December 2013
 * Managed the opening of a new flagship store, merging two existing offices into one.
 * Design and set working practises to achieve company goals.
-* Recruitment, training, quality control, sales management, HR issues, systems rollouts.
+* Recruitment, training, quality control, sales management, HR issues, systems rollouts, liasing with suppliers.
+* Worked closely with Head of Operations and MD to design and implement commercial strategy.
+* Responsible for training, development and success of 15 member team.
 
 ###Corporate Traveller - Account Manager April 2012- September 2012
 
 * Handling corporate travel accounts for high end business clients.
-* Designing solutions for complex travel requirements and delivering it to clients.
+* Designing solutions for complex travel requirements and delivering them to clients.
 * Responsible for billing and accounting for clients and the company
 * Sourcing new business and building client portfolio.
 
@@ -91,7 +102,6 @@ April 2003 - March 2004, Assistant Sales Supervisor, Worldwide Sales.
 
 August 1999 - April 2003 Sales Consultant, Worldwide Sales.
 * Consistently attained top sales figures, while working from Junior to Senior role.
-
 
 And finally..
 I have a range of interests outside of work. I enjoy reading and researching historical/scientific subjects. I play the guitar and enjoy sports, particularly football, rugby, diving and tennis. I also enjoy an active social life with my wife and friends. 
