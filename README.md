@@ -15,15 +15,15 @@ Personal Profile
 `````
 Key skills
 `````
-  • Makers Academy Graduate in Web Development (see below).
-  • Experienced in delivering projects on schedule and within budget.
-  • Demanding but supportive manager, focusing on maximizing business objectives.
-  • Excellent planning, analytical and organisational ability.
-  • Adaptive account manager able to juggle diverse relationships.
-  • Strong communicator and excellent relationship builder at all levels.
-  • Outstanding training, coaching and presentation skills.
-  • Strong negotiator, excelling at crisis management and resolving disputes.
-  • Commercially aware and able to devise advertising/marketing accordingly.
+  * Makers Academy Graduate in Web Development (see below).
+  * Experienced in delivering projects on schedule and within budget.
+  * Demanding but supportive manager, focusing on maximizing business objectives.
+  * Excellent planning, analytical and organisational ability.
+  * Adaptive account manager able to juggle diverse relationships.
+  * Strong communicator and excellent relationship builder at all levels.
+  * Outstanding training, coaching and presentation skills.
+  * Strong negotiator, excelling at crisis management and resolving disputes.
+  * Commercially aware and able to devise advertising/marketing accordingly.
 
 `````
 Education
