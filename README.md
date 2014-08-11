@@ -9,6 +9,8 @@ Personal Profile
 `````
  Career changer working to become a Junior Web Developer and recent graduate from Makers Academy in London. Looking to get the first role on the developer ladder. 
  Ruby, Rails, Sinatra, CSS, HTML, JavaScript and more - see below.
+
+
  Extremely adaptable with first-rate presentation and organisational abilities.
  Experience in sales, project management, administration, staff training, product selection, advertising, marketing, presentation, recruitment, crisis management, sales management and commercial decision-making. 
 
