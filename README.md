@@ -1,6 +1,7 @@
 ## COLIN FRANKISH 
 
-Email: colin.frankish@gmail.com -
+Email: colin.frankish@gmail.com 
+
 [Twitter:] @ColinFrankish 
 
 [Github:]  ColinFrankish 
