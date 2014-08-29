@@ -2,7 +2,8 @@
 
 Email: colin.frankish@gmail.com -
 [Twitter:] @ColinFrankish -
-[Github:]  ColinFrankish 
+[Github:]  ColinFrankish -
+[Linkedin:] Colin Frankish
 
 `````
 Personal Profile
@@ -118,6 +119,7 @@ I have a range of interests outside of work. I enjoy reading and researching his
 
 [Github:]: https://github.com/ColinFrankish
 [Twitter:]: https://twitter.com/ColinFrankish
+[Linkedin:]: https://www.linkedin.com/profile/view?id=362671458&trk=nav_responsive_tab_profile
 [Full Stack People]: http://ma-student-directory.herokuapp.com/
 [(Github)]: https://github.com/CrowdHailer/Final-Project
 [Blog]: https://github.com/ColinFrankish/blog
